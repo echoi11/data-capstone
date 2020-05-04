@@ -11,7 +11,7 @@ Row,Neighborhood,Borough,Latitude,Longitude
 10,Brighton,Rainier Valley[129],47.538985,-122.275026
 11,Broadmoor,Madison Park,47.6351699,-122.2897114
 12,Broadview,North Seattle[42],47.720116,-122.3654839
-13,Broadway,Capitol Hill[94],47.6239952,-122.3205987
+13,Broadway,Capitol Hill[94],47.621046,-122.323918
 14,Bryant,North Seattle[42],47.6717851,-122.2865986
 15,Capitol Hill,Central Seattle[42],47.625434,-122.321477
 16,"Cascade, Seattle",South Lake Union,47.6212075,-122.3351856
@@ -59,16 +59,15 @@ Row,Neighborhood,Borough,Latitude,Longitude
 58,Leschi[120],Central Area[120],47.600441,-122.292378
 59,Lower Queen Anne,Queen Anne[89],47.624271,-122.355595
 60,Loyal Heights,Ballard[78],47.683085,-122.3845727
-61,Madison Park,Capitol Hill[94] / Central Seattle,47.6355973,-122.2927089
-62,Madison Valley,Capitol Hill / Stevens[94] / Central Seattle,47.623338,-122.296267
-63,Madison Valley,Madrona,47.623465,-122.296557
+61,Madison Park,Capitol Hill[94] / Central Seattle,47.634648,-122.279847
+63,Madison Valley,Madrona,47.620250,-122.297530
 64,Madrona,Central Area[120],47.614126,-122.288238
 65,Magnolia,Central Seattle[42],47.641301,-122.39989
 66,Mann,Central Area[120],47.610647,-122.299401
 67,Maple Leaf,Northgate[50],47.6928819,-122.3165872
 68,Matthews Beach,Lake City[55],47.7043266,-122.2815715
 69,Meadowbrook,Lake City[55],47.7055785,-122.2963576
-70,Mid Beacon Hill (Maplewood),Beacon Hill[141],47.552551,-122.300733
+70,Mid Beacon Hill (Maplewood),Beacon Hill[141],47.561376,-122.311398
 71,Minor,Central Area[120],47.605181,-122.309299
 72,Montlake,Capitol Hill[94] / Central Seattle,47.6404517,-122.3074963
 73,Mount Baker,Rainier Valley[129],47.57888,-122.292708
@@ -117,9 +116,9 @@ Row,Neighborhood,Borough,Latitude,Longitude
 115,Wallingford,North Seattle[42],47.6594631,-122.3343417
 116,Washington Park,Harrison/Denny-Blaine,47.627313,-122.287511
 117,Wedgwood,North Seattle[42],47.6902531,-122.2908109
-118,West Edge[118][119],Downtown,47.609404,-122.33686
+118,West Edge[118][119],Downtown,47.607270,-122.336949
 119,West Queen Anne,Queen Anne[89],47.6343934,-122.366784
-120,West Seattle,Seattle,47.56661,-122.386063
+120,West Seattle,Seattle,47.571034,-122.386665
 121,West Woodland,Ballard[78],47.669223,-122.368534
 122,Westlake,Lake Union,47.6323847,-122.3425581
 123,Whittier Heights,Ballard[78],47.683297,-122.3714487
