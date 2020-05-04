@@ -35,13 +35,13 @@ Row,Neighborhood,Latitude,Longitude
 34,Forest Hill,37.7474307,-122.4635825
 35,Forest Knolls,37.757233,-122.458247
 36,Glen Park,37.734281,-122.4344696
-37,Golden Gate Heights,37.776638,-122.4293017
+37,Golden Gate Heights,37.752951,-122.470649
 38,Haight-Ashbury,37.7700148,-122.4469519
 39,Hayes Valley,37.7766853,-122.4229361
 40,Hunters Point,37.7267715,-122.3715718
 41,India Basin,37.7360416,-122.370526
 43,Ingleside,37.7229872,-122.4530272
-42,Ingleside Terraces,37.724956,-122.463628
+42,Ingleside Terraces,37.725050,-122.467568
 44,Inner Sunset,37.76145,-122.4676432
 45,Irish Hill,37.7589682,-122.3860326
 46,Islais Creek,37.74723,-122.389501
@@ -63,7 +63,7 @@ Row,Neighborhood,Latitude,Longitude
 62,Lower Pacific Heights,37.7857666,-122.4389042
 63,Marina District,37.8029843,-122.4374715
 64,Merced Heights,37.7175067,-122.4702815
-65,Merced Manor,37.746643,-122.458696
+65,Merced Manor,37.732869,-122.478540
 66,Mid-Market,37.780212,-122.411539
 67,Midtown Terrace,37.750736,-122.453263
 68,Miraloma Park,37.740138,-122.459123
@@ -82,8 +82,8 @@ Row,Neighborhood,Latitude,Longitude
 81,Outer Sunset,37.762735,-122.495877
 82,Pacific Heights,37.7927171,-122.4356445
 83,Parkmerced,37.7171762,-122.4789473
-84,Parkside,37.732994,-122.478494
-85,Parnassus,37.7652671,-122.4477545
+84,Parkside,37.742488,-122.489457
+85,Parnassus,37.763665,-122.457337
 86,Polk Gulch,37.777512,-122.418043
 88,Portola,37.726379,-122.4085514
 87,Portola Place,37.727225,-122.398331
@@ -115,6 +115,6 @@ Row,Neighborhood,Latitude,Longitude
 114,Vista del Mar,37.7790262,-122.4199061
 115,West Portal,37.7411405,-122.4656336
 116,Western Addition,37.779559,-122.4298104
-117,Westwood Highlands,37.725726,-122.458199
-118,Westwood Park,37.727554,-122.456428
+117,Westwood Highlands,37.733321,-122.456638
+118,Westwood Park,37.726217,-122.456536
 119,Yerba Buena,37.78509,-122.400512
