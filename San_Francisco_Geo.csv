@@ -1,7 +1,7 @@
 Row,Neighborhood,Latitude,Longitude
 1,Alamo Square,37.7763598,-122.4346885
 2,Anza Vista,37.7808364,-122.4431489
-3,Ashbury Heights,37.765254,-122.445418
+3,Ashbury Heights,37.765442,-122.445360
 4,Balboa Park,37.7214274,-122.4475473
 5,Balboa Terrace,37.731524,-122.468539
 6,Bayview,37.7288889,-122.3925
@@ -17,7 +17,7 @@ Row,Neighborhood,Latitude,Longitude
 16,Civic Center,37.7795939,-122.4167938
 17,Clarendon Heights,37.758575,-122.451367
 18,Cole Valley,37.7658133,-122.4499624
-19,Corona Heights,37.7648857,-122.4393677
+19,Corona Heights,37.762060,-122.443297
 20,Cow Hollow,37.7972616,-122.4362477
 21,Crocker-Amazon,37.7093777,-122.4385868
 22,Design District,37.768169,-122.39862
@@ -26,7 +26,7 @@ Row,Neighborhood,Latitude,Longitude
 25,Dolores Heights,37.757358,-122.433331
 26,Duboce Triangle,37.7671382,-122.43223
 27,Embarcadero,37.7928637,-122.396912
-28,Eureka Valley,37.7609556,-122.4355087
+28,Eureka Valley,37.758522,-122.441183
 29,Excelsior,37.7217943,-122.4353815
 30,Fillmore,37.78086,-122.42542
 31,Financial District South,37.786602,-122.395617
@@ -110,7 +110,7 @@ Row,Neighborhood,Latitude,Longitude
 109,Twin Peaks,37.75464,-122.44648
 110,Union Square,37.7879363,-122.4075174
 111,University Mound,37.726481,-122.417830
-112,Upper Market,37.765927,-122.442575
+112,Upper Market,37.754355,-122.443660
 113,Visitacion Valley,37.7121319,-122.4097128
 114,Vista del Mar,37.7790262,-122.4199061
 115,West Portal,37.7411405,-122.4656336
