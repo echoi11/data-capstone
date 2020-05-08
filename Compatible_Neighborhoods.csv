@@ -1,0 +1,245 @@
+,Cluster Labels,Neighborhood,City
+3,0,Balboa Park,San Francisco
+4,0,Balboa Terrace,San Francisco
+5,0,Bayview,San Francisco
+6,0,Belden Place,San Francisco
+12,0,Cayuga Terrace,San Francisco
+20,0,Crocker-Amazon,San Francisco
+28,0,Excelsior,San Francisco
+33,0,Forest Hill,San Francisco
+35,0,Glen Park,San Francisco
+36,0,Golden Gate Heights,San Francisco
+41,0,Ingleside,San Francisco
+42,0,Ingleside Terraces,San Francisco
+43,0,Inner Sunset,San Francisco
+48,0,Jordan Park,San Francisco
+50,0,Lake Street,San Francisco
+52,0,Lakeside,San Francisco
+56,0,Little Russia,San Francisco
+63,0,Merced Heights,San Francisco
+64,0,Merced Manor,San Francisco
+67,0,Miraloma Park,San Francisco
+71,0,Mission Terrace,San Francisco
+72,0,Monterey Heights,San Francisco
+78,0,Oceanview,San Francisco
+79,0,Outer Mission,San Francisco
+80,0,Outer Sunset,San Francisco
+83,0,Parkmerced,San Francisco
+84,0,Parkside,San Francisco
+87,0,Portola,San Francisco
+88,0,Portola Place,San Francisco
+92,0,Richmond District,San Francisco
+95,0,Saint Francis Wood,San Francisco
+96,0,Sea Cliff,San Francisco
+97,0,Sherwood Forest,San Francisco
+98,0,Silver Terrace,San Francisco
+104,0,Sunnyside,San Francisco
+105,0,Sunset District,San Francisco
+108,0,Treasure Island,San Francisco
+111,0,University Mound,San Francisco
+115,0,West Portal,San Francisco
+117,0,Westwood Highlands,San Francisco
+118,0,Westwood Park,San Francisco
+146,0,Dunlap / Othello,Seattle
+167,0,Interbay,Seattle
+206,0,Pinehurst,Seattle
+210,0,Rainier Beach / Atlantic City Beach,Seattle
+211,0,Rainier Valley,Seattle
+226,0,Southeast Magnolia,Seattle
+7,1,Bernal Heights,San Francisco
+9,1,Butchertown,San Francisco
+45,1,Islais Creek,San Francisco
+120,1,Adams,Seattle
+121,1,Alki Point,Seattle
+122,1,Arbor Heights,Seattle
+124,1,Ballard,Seattle
+125,1,Beacon Hill,Seattle
+127,1,Bitter Lake,Seattle
+129,1,Brighton,Seattle
+131,1,Broadview,Seattle
+133,1,Bryant,Seattle
+136,1,Cedar Park,Seattle
+141,1,Columbia City,Seattle
+142,1,Crown Hill,Seattle
+143,1,Delridge,Seattle
+149,1,Fairmount Park,Seattle
+150,1,Fauntleroy,Seattle
+152,1,Fremont,Seattle
+153,1,Gatewood,Seattle
+154,1,Genesee,Seattle
+155,1,Georgetown,Seattle
+156,1,Green Lake,Seattle
+157,1,Greenwood,Seattle
+158,1,Haller Lake,Seattle
+159,1,Harbor Island,Seattle
+161,1,Hawthorne Hills,Seattle
+162,1,High Point,Seattle
+163,1,Highland Park,Seattle
+164,1,Hillman City,Seattle
+165,1,Holly Park / NewHolly,Seattle
+166,1,Industrial District,Seattle
+170,1,Judkins Park,Seattle
+171,1,Junction / West Seattle Junction / Alaska Junction,Seattle
+172,1,Lake City,Seattle
+174,1,Lakewood,Seattle
+176,1,Lawton Park,Seattle
+179,1,Loyal Heights,Seattle
+185,1,Maple Leaf,Seattle
+186,1,Matthews Beach,Seattle
+187,1,Meadowbrook,Seattle
+188,1,Mid Beacon Hill (Maplewood),Seattle
+191,1,Mount Baker,Seattle
+192,1,North Admiral / Admiral District,Seattle
+193,1,North Beach / Blue Ridge,Seattle
+194,1,North Beacon Hill,Seattle
+195,1,North College Park (Licton Springs),Seattle
+196,1,North Delridge,Seattle
+198,1,North Seattle,Seattle
+199,1,Northgate,Seattle
+201,1,Olympic Hills,Seattle
+202,1,Phinney Ridge,Seattle
+203,1,Pigeon Point,Seattle
+212,1,Rainier View / Lakeridge,Seattle
+213,1,Ravenna,Seattle
+215,1,Riverview,Seattle
+216,1,Roosevelt,Seattle
+217,1,Roxhill,Seattle
+219,1,Seaview / Mee-Kwa-Mooks,Seattle
+220,1,Seward Park,Seattle
+221,1,SoDo,Seattle
+222,1,South Beacon Hill / Van Asselt,Seattle
+223,1,South Delridge,Seattle
+225,1,"South Park, Seattle",Seattle
+228,1,Sunset Hill,Seattle
+229,1,University District (U District),Seattle
+230,1,University Village,Seattle
+231,1,Victory Heights,Seattle
+233,1,Wallingford,Seattle
+235,1,Wedgwood,Seattle
+237,1,West Queen Anne,Seattle
+238,1,West Seattle,Seattle
+239,1,West Woodland,Seattle
+241,1,Whittier Heights,Seattle
+2,2,Ashbury Heights,San Francisco
+8,2,Buena Vista,San Francisco
+16,2,Clarendon Heights,San Francisco
+17,2,Cole Valley,San Francisco
+18,2,Corona Heights,San Francisco
+19,2,Cow Hollow,San Francisco
+27,2,Eureka Valley,San Francisco
+32,2,Fisherman's Wharf,San Francisco
+34,2,Forest Knolls,San Francisco
+37,2,Haight-Ashbury,San Francisco
+39,2,Hunters Point,San Francisco
+40,2,India Basin,San Francisco
+49,2,Laguna Honda,San Francisco
+51,2,Lakeshore,San Francisco
+53,2,Laurel Heights,San Francisco
+54,2,Lincoln Manor,San Francisco
+55,2,Little Hollywood,San Francisco
+60,2,Lower Nob Hill,San Francisco
+61,2,Lower Pacific Heights,San Francisco
+62,2,Marina District,San Francisco
+66,2,Midtown Terrace,San Francisco
+73,2,Mount Davidson,San Francisco
+76,2,North Beach,San Francisco
+77,2,North of Panhandle,San Francisco
+81,2,Pacific Heights,San Francisco
+82,2,Panhandle,San Francisco
+85,2,Parnassus,San Francisco
+90,2,Presidio,San Francisco
+91,2,Presidio Heights,San Francisco
+94,2,Russian Hill,San Francisco
+103,2,Sunnydale,San Francisco
+109,2,Twin Peaks,San Francisco
+112,2,Upper Market,San Francisco
+113,2,Visitacion Valley,San Francisco
+114,2,Vista del Mar,San Francisco
+128,2,Briarcliff,Seattle
+130,2,Broadmoor,Seattle
+175,2,Laurelhurst,Seattle
+180,2,Madison Park,Seattle
+183,2,Magnolia,Seattle
+208,2,Portage Bay / Roanoke,Seattle
+214,2,Renton Hill,Seattle
+218,2,Sand Point,Seattle
+232,2,View Ridge,Seattle
+242,2,Windermere,Seattle
+0,3,Alamo Square,San Francisco
+1,3,Anza Vista,San Francisco
+10,3,Castro,San Francisco
+11,3,Cathedral Hill,San Francisco
+13,3,China Basin,San Francisco
+14,3,Chinatown,San Francisco
+15,3,Civic Center,San Francisco
+21,3,Design District,San Francisco
+22,3,Diamond Heights,San Francisco
+23,3,Dogpatch,San Francisco
+24,3,Dolores Heights,San Francisco
+25,3,Duboce Triangle,San Francisco
+26,3,Embarcadero,San Francisco
+29,3,Fillmore,San Francisco
+31,3,Financial District,San Francisco
+30,3,Financial District South,San Francisco
+38,3,Hayes Valley,San Francisco
+44,3,Irish Hill,San Francisco
+46,3,Jackson Square,San Francisco
+47,3,Japantown,San Francisco
+57,3,Little Saigon,San Francisco
+58,3,Lone Mountain,San Francisco
+59,3,Lower Haight,San Francisco
+65,3,Mid-Market,San Francisco
+68,3,Mission Bay,San Francisco
+69,3,Mission District,San Francisco
+70,3,Mission Dolores,San Francisco
+74,3,Nob Hill,San Francisco
+75,3,Noe Valley,San Francisco
+86,3,Polk Gulch,San Francisco
+89,3,Potrero Hill,San Francisco
+93,3,Rincon Hill,San Francisco
+99,3,South Beach,San Francisco
+100,3,South End,San Francisco
+102,3,South Park,San Francisco
+101,3,South of Market,San Francisco
+106,3,Telegraph Hill,San Francisco
+107,3,Tenderloin,San Francisco
+110,3,Union Square,San Francisco
+116,3,Western Addition,San Francisco
+119,3,Yerba Buena,San Francisco
+123,3,Atlantic,Seattle
+126,3,Belltown,Seattle
+132,3,Broadway,Seattle
+134,3,Capitol Hill,Seattle
+135,3,"Cascade, Seattle",Seattle
+137,3,"Central Area / Central District (""CD"")",Seattle
+138,3,Central Business District,Seattle
+139,3,Central Waterfront,Seattle
+140,3,Cherry Hill & Squire Park,Seattle
+144,3,Denny Triangle,Seattle
+145,3,Downtown,Seattle
+147,3,East Queen Anne,Seattle
+148,3,Eastlake,Seattle
+151,3,First Hill,Seattle
+160,3,Harrison / Denny-Blaine,Seattle
+168,3,Interlaken,Seattle
+169,3,"International District (""ID"")",Seattle
+173,3,Lake Union,Seattle
+177,3,Leschi,Seattle
+178,3,Lower Queen Anne,Seattle
+181,3,Madison Valley,Seattle
+182,3,Madrona,Seattle
+184,3,Mann,Seattle
+189,3,Minor,Seattle
+190,3,Montlake,Seattle
+197,3,North Queen Anne,Seattle
+200,3,Northlake,Seattle
+204,3,Pike-Market,Seattle
+205,3,Pike-Pine Corridor / Pike/Pine,Seattle
+207,3,Pioneer Square,Seattle
+209,3,Queen Anne,Seattle
+224,3,"South Lake Union, Seattle",Seattle
+227,3,Stevens,Seattle
+234,3,Washington Park,Seattle
+236,3,West Edge,Seattle
+240,3,Westlake,Seattle
+243,3,Yesler Terrace,Seattle
